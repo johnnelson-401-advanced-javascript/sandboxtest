@@ -1,0 +1,25 @@
+{
+  "name": "sandboxtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnelson-401-advanced-javascript/sandboxtest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnelson-401-advanced-javascript/sandboxtest/issues"
+  },
+  "homepage": "https://github.com/johnnelson-401-advanced-javascript/sandboxtest#readme"
+}
